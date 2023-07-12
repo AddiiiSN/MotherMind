@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">MotherMind</string>
+    <string name="browse_title">MotherMind</string>
+    <string name="related_movies">Related Videos</string>
+    <string name="grid_view">Grid View</string>
+    <string name="error_fragment">Error Fragment</string>
+    <string name="watch_trailer_1">Watch Video</string>
+    <string name="watch_trailer_2">Tonton Video</string>
+    <string name="movie">Movie</string>
+
+
+    <string name="desc1a">"Pada tahap ini, bayi biasanya mengalami kenaikan berat badan dan panjang tubuh serta mulai menunjukkan kemampuan untuk mengikuti gerakan dengan mata dan kepala. Selain itu, pada usia ini bayi juga mulai mengeksplorasi lingkungannya sekitar dengan sentuhan dan mulai mengeluarkan suara seperti mengoceh atau tertawa. Penting bagi orang tua untuk memberikan perhatian dan kebutuhan yang diperlukan oleh bayi pada tahap ini seperti kebutuhan gizi yang sesuai, tidur yang cukup, dan stimulasi yang tepat untuk mendukung tumbuh kembang bayi."</string>
+    <string name="desc1b">usia 4–6 bulan menunjukkan kemajuan signifikan dalam perkembangan mereka, baik secara motorik maupun bahasa. Mereka mulai bisa menggenggam benda dengan tangan mereka dan mulai belajar untuk duduk meski masih dengan bantuan. Selain itu, pada usia ini, mereka juga mulai mengeksplorasi lingkungan sekitar mereka dengan lebih aktif. Orang tua perlu memberikan stimulasi yang tepat dan meningkatkan interaksi sosial dengan bayi mereka di usia ini untuk mempercepat proses perkembangan mereka secara maksimal</string>
+    <string name="desc1c">tahapan perkembangan bayi usia 7–9 bulan adalah masa di mana bayi mulai menunjukkan kemampuan motorik yang lebih baik. Mereka bisa duduk tanpa dukungan dan meraih mainan tanpa jatuh. Perkembangan bahasa bayi juga semakin pesat, di mana mereka mulai memahami kata-kata sederhana dan kemampuan bicara mereka semakin berkembang. Orang tua perlu terus memberikan stimulasi yang tepat, dengan cara memberikan mainan yang sesuai dan memberikan perhatian yang cukup untuk merangsang perkembangan sosial dan motorik bayi mereka.</string>
+    <string name="desc1d">usia 10–12 bulan adalah masa di mana perkembangan motorik mereka semakin pesat. Mereka sudah bisa merangkak, berdiri, dan mungkin sudah bisa berjalan sendiri. Perkembangan bahasa bayi juga semakin maju, di mana mereka mulai bisa mengucapkan kata-kata sederhana dan memahami perintah sederhana. Orang tua harus terus memberikan dukungan untuk memfasilitasi perkembangan sosial, emosional, serta motorik bayi mereka, dengan cara memberikan stimulasi sesuai tahap perkembangan mereka dan terus membimbing mereka dalam belajar dan bereksplorasi di sekitar lingkungan mereka.</string>
+
+    <string name="desc2a">membandingkan kecerdasan anak dengan anak orang lain, bisa dijadikan alternatif untuk memastikan apakah perkembangan si kecil termasuk baik. Namun bagaimana bila perkembangan anak yang terjadi pembanding justru mengalaminketerlambatan.</string>
+    <string name="desc2b">Harap dicatat bahwa setiap bayi berkembang dengan kecepatan yang berbeda. Jika Anda memiliki kekhawatiran, konsultasikan dengan profesional medis atau pakar perkembangan anak</string>
+    <string name="desc2c">Ada baiknya orantua mengecek standar perkembangan berikut, dimana dijelaskan mengenai perkembangan motorik kasar, motorik halus, bahasa, pendengaran dan penglihatan sesuai dengan usia.</string>
+    <string name="desc2d">Beberapa hal membutuhkan perhatian tersendiri terkait cara merawat si kecil terutama di momen-momen awal kehidupannya</string>
+
+    <string name="desc3a">Bayi yang sudah berusia 1 tahun menunjukkan kemajuan pesat dalam perkembangan motorik dan bahasa mereka. Mereka sudah bisa berjalan sendiri, berbicara beberapa kata, dan mulai menunjukkan kemauan untuk mandiri. Orang tua perlu memberikan perhatian ekstra pada pola asuh dan pengasuhan anak pada usia ini, seperti memberikan makanan yang seimbang, merangsang perkembangan sosial dan kreativitas anak dengan memberikan stimulasi yang tepat, serta memberikan perhatian yang cukup untuk perkembangan emosi anak</string>
+    <string name="desc3b">Bayi yang berusia 3 tahun sudah semakin mandiri dan kreatif dalam bermain. Mereka sudah memiliki kemampuan motorik yang lebih baik, seperti bisa berlari-lari dan bermain bola. Kemampuan bahasa mereka juga semakin maju, di mana mereka sudah bisa memahami kalimat yang lebih panjang dan kompleks serta bisa menyebutkan nama objek dan orang. Orang tua perlu mengoptimalkan stimulasi yang tepat untuk perkembangan mereka, seperti memberikan mainan edukatif atau membacakan cerita, mengajarkan sopan santun dan mengoptimalkan interaksi sosial agar anak dapat mengembangkan kemampuan sosial dan emosional mereka.</string>
+    <string name="desc3c">Di masa perkembangan anak usia 4 tahun dari segi motorik halus koordinasi antara mata dengan tangan semakin tajam.
+Anak sudah mampu mengambil benda yang sangat kecil (misalnya manik-manik atau kerikil), menyelesaikan puzzle sederhana, dan mewarnai tanpa keluar garis gambar.
+Ia juga sudah mampu menggambar dengan meniru yang dibuat oleh orang lain. Beberapa bentuk yang bisa dilakukan, misalnya bentuk lingkaran, kotak, segitiga, atau orang-orangan meski belum terlalu jelas.</string>
+    <string name="desc3d">Anak usia 5 tahun biasanya sudah masuk ke dalam tahap Sekolah Dasar/Sekolah Pra Sekolah (SD/TK). Perkembangan motorik dan bahasa mereka semakin baik , di mana mereka sudah bisa menulis, membaca, serta berkomunikasi menggunakan bahasa yang lebih lancar dan kompleks. Pada usia ini, orang tua perlu terus memberikan dukungan pendidikan yang tepat, seperti membimbing dalam belajar membaca, menulis dan menghitung, serta membentuk karakter anak dengan memberikan nilai-nilai moral dan agama yang baik . Selain itu, stimulasi sosial, emosional, dan kreativitas juga sangat diperlukan pada usia ini untuk mendukung perkembangan karakter dan kepribadian anak.</string>
+
+    <string name="desc4a">Perkembangan sosial anak usia 7 tahun meliputi perkembangan proses saat anak belajar berinteraksi atau bersosialisasi dengan orang lain yang ada di sekitarnya. Perkembangan sosial biasanya merujuk pada bagaimana seorang anak mengenal dan bersahabat dengan teman-temannya.Selain itu, perkembangan sosial yang baik juga membuat anak mampu menangani konflik dengan teman-temannya.</string>
+    <string name="desc4b">Pertumbuhan anak usia 4–5 Tahun perlu dicermati, yang tentunya perkembangan setiap anak berbeda beda meski demikian perlu diwaspadai Gangguan pertumbuhan usia 4–5 Tahun. Hal tersebut agar anak dapat pemerikasaan dan dilakukan penanganan yang benar.</string>
+    <string name="desc4c">strict parents adalah orangtua yang menerapkan pola asuh yang ketat, banyak aturan dan pembatasan, serta cenderung kaku ketika menghadapi anak-anaknya.
+Tipe orangtua seperti ini biasanya mematok target dan harapan yang tinggi untuk buah hatinya.
+Apabila anak gagal atau tidak mencapai harapan orangtua tersebut, anak tak jarang dihukum atau menerima konsekuensi yang tidak menyenangkan.</string>
+    <string name="desc4d">Selain perkembangan fisik dan perkembangan kognitif, si kecil juga mengalami perkembangan sosial yang akan ia bawa hingga dewasa kelak. Bahkan, kemampuan sosial anak yang berkembang dengan baik membantu menumbuhkan rasa empati di dalam dirinya.</string>
+
+
+    <!-- Error messages -->
+    <string name="error_fragment_message">An error occurred</string>
+    <string name="dismiss_error">Dismiss</string>
+    <string name="title_activity_splash">SplashActivity</string>
+</resources>
