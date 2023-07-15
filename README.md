@@ -6,6 +6,7 @@
 - Batita
 - Balita
 - Anak-anak
+  
 Dengan adanya aplikasi ini diharapkan untuk para orang tua agar lebih perhatian lagi dengan anaknya sendiri.
 Aplikasi MotherMind sendiri dibuat dengan menggunakan Android Studio dan ditujukan untuk peggunaan pada Android TV
 
