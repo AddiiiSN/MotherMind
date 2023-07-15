@@ -1,10 +1,11 @@
 # MotherMind 
 
-           Sebuah aplikasi Android TV yang bertemakan parenting untuk ibu-ibu mulai dari ibu hamil sampai mempunyai anak 12 Tahun. Didalam aplikasinya sendiri memiliki beberapa menu kategori untuk contentnya, yaitu:
-Usia Kandungan
-Batita
-Balita
-Anak-anak
+
+  Sebuah aplikasi Android TV yang bertemakan parenting untuk ibu-ibu mulai dari ibu hamil sampai mempunyai anak 12 Tahun. Didalam aplikasinya sendiri memiliki beberapa menu kategori untuk contentnya, yaitu:
+- Usia Kandungan
+- Batita
+- Balita
+- Anak-anak
 Dengan adanya aplikasi ini diharapkan untuk para orang tua agar lebih perhatian lagi dengan anaknya sendiri.
 Aplikasi MotherMind sendiri dibuat dengan menggunakan Android Studio dan ditujukan untuk peggunaan pada Android TV
 
